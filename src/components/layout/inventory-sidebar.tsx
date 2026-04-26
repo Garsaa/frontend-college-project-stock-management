@@ -85,7 +85,7 @@ export function InventorySidebar() {
               <span className="font-semibold">Modulo em preparacao</span>
             </div>
             <p className="mt-3 leading-6">
-              O shell lateral ja fica pronto para voce encaixar os outros modulos do ERP sem
+              O shell lateral ja fica pronto para voce encaixar os outros modulos sem
               mexer na base visual.
             </p>
             <Link

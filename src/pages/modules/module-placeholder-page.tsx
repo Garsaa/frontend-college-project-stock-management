@@ -15,7 +15,7 @@ export function ModulePlaceholderPage({ moduleName }: ModulePlaceholderPageProps
       <PageHeader
         eyebrow="Modulo habilitado"
         title={moduleName}
-        description="A navegacao do ERP ja esta pronta. Esta tela fica preparada para voce plugar o conteudo real do modulo quando quiser expandir o sistema."
+        description="A navegacao ja esta pronta. Esta tela fica preparada para voce plugar o conteudo real do modulo quando quiser expandir o sistema."
       />
 
       <Card className="overflow-hidden">
@@ -26,7 +26,7 @@ export function ModulePlaceholderPage({ moduleName }: ModulePlaceholderPageProps
               Placeholder pronto para evoluir
             </div>
             <h2 className="mt-5 text-3xl font-semibold tracking-tight text-[#3A2416]">
-              Estrutura consistente com o restante do ERP
+              Estrutura consistente com o restante
             </h2>
             <p className="mt-4 max-w-2xl text-sm leading-7 text-[#7C6555] sm:text-base">
               Mantive o mesmo shell visual, a troca de modulos e a navegacao lateral prontos para

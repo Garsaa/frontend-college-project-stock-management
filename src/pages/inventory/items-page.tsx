@@ -131,7 +131,7 @@ export function ItemsPage() {
       {!loading && !error && items.length === 0 ? (
         <EmptyState
           title="Nenhum item encontrado"
-          description="Cadastre insumos e produtos da padaria para começar a operar o ERP com o estoque centralizado."
+          description="Cadastre insumos e produtos da padaria para começar a operar com o estoque centralizado."
           action={<Button onClick={() => setCreateOpen(true)}>Cadastrar primeiro item</Button>}
         />
       ) : null}

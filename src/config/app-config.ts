@@ -22,7 +22,7 @@ export interface SidebarEntry {
 export const API_FALLBACK_BASE_URL =
   'https://backend-college-project-stock-management.onrender.com';
 
-export const APP_NAME = 'Aurora Padaria ERP';
+export const APP_NAME = 'Aurora Padaria';
 export const APP_SUBTITLE =
   'Controle de insumos, fornadas, produtos prontos e movimentacoes do estoque da padaria.';
 

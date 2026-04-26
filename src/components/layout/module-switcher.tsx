@@ -46,7 +46,7 @@ export function ModuleSwitcher() {
         <div className="absolute right-0 top-[calc(100%+0.75rem)] z-30 w-80 rounded-[28px] border border-orange-100 bg-white p-3 shadow-[0_28px_60px_-36px_rgba(41,24,17,0.45)]">
           <div className="px-3 pb-3">
             <p className="font-display text-xs font-semibold uppercase tracking-[0.24em] text-amber-700">
-              Modulos do ERP
+              Modulos
             </p>
             <p className="mt-2 text-sm text-[#7C6555]">
               Estoque da padaria esta ativo. Os demais caminhos ficam prontos para voce conectar
